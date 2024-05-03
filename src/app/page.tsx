@@ -6,10 +6,9 @@ export default function Home() {
   return (
     <main>
       <Titulo content="Open always wins"></Titulo>
-        <Banner class="banner-white" src="/banner.webp" link="/produtos"></Banner>
-        <Titulo content="Destaques"/>
-        <Cartaz/>
-
+      <Banner class="banner-white" src="/banner.webp" link="/produtos"></Banner>
+      <Titulo content="Destaques" />
+      <Cartaz />
     </main>
   );
 }

@@ -5,8 +5,8 @@ import ContatoForm from "@/components/ContatoForm";
 export default function Contato() {
   return (
     <main>
-      <Titulo content="Fale conosco"/>
-      <ContatoForm/>
+      <Titulo content="Fale conosco" />
+      <ContatoForm />
     </main>
   );
 }

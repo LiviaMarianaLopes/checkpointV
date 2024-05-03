@@ -4,7 +4,7 @@ import Produtos from "@/components/Produtos";
 export default function Produtospage() {
   return (
     <main>
-        <Produtos/>
+      <Produtos />
     </main>
   );
 }
