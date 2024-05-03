@@ -1,0 +1,12 @@
+.div-subtitulo{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-inline: 4%;
+}
+.subtitulo{
+    text-align: center;
+    color: aliceblue;
+    font-size:large;
+}

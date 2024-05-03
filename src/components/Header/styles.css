@@ -1,0 +1,25 @@
+.container{
+    /* padding: 5px 65px; */
+    padding-inline: 65px;
+    display: flex;
+    background-color: #000000;
+    color: aliceblue;
+    justify-content:space-between;
+    align-items: center;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+}
+.nav a{
+    align-items: center;
+    display: flex;
+    padding: 20px 20px;
+}
+.nav a:hover{
+box-shadow: 0px -7px 3px -3px  blue inset;
+}
+header{
+    margin-bottom: 15px;
+}

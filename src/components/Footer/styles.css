@@ -1,0 +1,30 @@
+footer{
+    padding: 2%;
+    color: aliceblue;
+   margin: 1%;
+}
+.container-footer{
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+}
+.column p{
+    width: 105px;
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+.column li{
+    padding-bottom: 10px;
+}
+.column{
+    padding-inline: 12%;
+}
+.column{
+    border-left: 1px aliceblue solid;
+    border-right: 1px aliceblue solid;
+    height: 150px;
+} 
+.column li:hover{
+    color:blue;
+    text-decoration:underline;
+}

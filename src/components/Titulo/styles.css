@@ -1,0 +1,11 @@
+.div-titulo{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.titulo{
+    color: aliceblue;
+    font-size:xx-large;
+    padding: 2%;
+}
