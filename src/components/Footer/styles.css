@@ -28,3 +28,8 @@ footer{
     color:blue;
     text-decoration:underline;
 }
+@media screen and (max-width: 1216px){
+ .column{
+    margin-top: 15px;
+}
+}

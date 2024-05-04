@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 const Banner = (props: any) => {
   return (
-    <>
+    <div className="div-banner">
       <div className={props.class}>
         <Link href={props.link}>
           <Image
@@ -19,7 +19,7 @@ const Banner = (props: any) => {
           <p>{props.content}</p>
         </div>
       </div>
-    </>
+    </div>
   );
 };
 

@@ -5,6 +5,7 @@
     justify-content: center;
 }
 .titulo{
+    text-align: center;
     color: aliceblue;
     font-size:xx-large;
     padding: 2%;
