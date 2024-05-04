@@ -1,0 +1,44 @@
+.contato{
+    display: flex;
+    width: 100%;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: fit-content;
+    width: 100%;
+}
+
+.cadastro{
+    height: 585px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #1b1c1d;
+    padding: 20px ;
+    border-radius: 30px;
+    margin: 35px;
+    height: fit-content;
+}
+.cadastro div{
+    display: flex;
+    flex-direction: column;
+    margin: 13px;
+}
+.cadastro h1{
+    font-size: 28px;
+}
+
+.cadastro h2{
+    font-size:large;
+    margin-bottom: 10px;
+}
+.numero{
+    padding-left: 7%;
+}
+.numero div a:hover{
+    color: blue;
+    text-decoration: underline;
+}

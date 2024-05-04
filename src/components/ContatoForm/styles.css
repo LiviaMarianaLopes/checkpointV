@@ -43,13 +43,7 @@
 .cadastro button:hover{
     background-color:rgb(3, 3, 105) ;
 }
-.cadastro p{
-    text-align: center;
-    background-color: white;
-    border-radius: 55px;
-    padding: 20px;
-    margin: 20px;
-}
+
 #mensagem{
     color: black;
     border-radius: 10px;

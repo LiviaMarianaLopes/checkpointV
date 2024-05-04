@@ -1,12 +1,11 @@
 import Image from "next/image";
-import Banner from "@/components/Banner";
 import Titulo from "@/components/Titulo";
-import ContatoForm from "@/components/ContatoForm";
-export default function Contato() {
+import Contato from "@/components/Contato";
+export default function ContatoPage() {
   return (
     <main>
       <Titulo content="Fale conosco" />
-      <ContatoForm />
+      <Contato />
     </main>
   );
 }
